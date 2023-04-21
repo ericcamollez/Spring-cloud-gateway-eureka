@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "gateway-service-eureka"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

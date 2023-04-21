@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "first-service-eureka"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

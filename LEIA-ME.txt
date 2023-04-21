@@ -1,0 +1,13 @@
+INICIAR O DISCOVERY, DEPOIS O GATEWAY E POR ULTIMO AS APLICAÇÕES
+---------------------------------------------------------
+http://localhost:8083/ - DISCOVERY
+
+http://localhost:8080/ - GATEWAY
+
+APLICAÇÕES
+---------------
+
+http://localhost:8081/employee/message
+
+http://localhost:8082/consumer/message
+
