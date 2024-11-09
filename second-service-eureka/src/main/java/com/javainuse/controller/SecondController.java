@@ -2,7 +2,7 @@ package com.javainuse.controller;
 
 import org.springframework.web.bind.annotation.*;
 
-// http://localhost:8082/consumer/message
+// http://localhost:8083/consumer/message
 
 @RestController
 @RequestMapping("/consumer")
